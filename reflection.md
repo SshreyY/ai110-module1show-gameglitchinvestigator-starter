@@ -7,6 +7,9 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
+  - Whenever I guessed it, it always gave me feedback saying that guess lower and then I entered 1 to see if it would say go higher but it said go lower, so immediately knew that this game is broken. Vice versa, when I guessed 99, it told me to go higher, so that was broken. the correct hint providing is broken in general, its very misleading.
+  - the new game button seems to broken because once I run out of attempts and click on new game button to refresh, it doesn't start a new game.
+  - when I switched to Hard difficulty, the sidebar said the range was 1 to 50, but the info box above the input still said "Guess a number between 1 and 100." I didn't know which one to actually trust, so I just guessed numbers above 50 and nothing happened differently, which made it obvious the difficulty range wasn't actually being applied to the game instructions.
 
 ---
 
